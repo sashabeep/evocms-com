@@ -1,0 +1,42 @@
+//BS OVERRIDES
+$min-contrast-ratio: 3;
+$primary: #009688;
+$secondary: #1e2229;
+$enable-gradients: false;
+$dark: $secondary;
+
+$navbar-dark-active-color: #0bd0be;
+$navbar-dark-color: #fff;
+$navbar-brand-margin-end: 30px;
+
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", Helvetica, Arial, sans-serif;
+$headings-font-family: 'Nunito Sans', -apple-system, BlinkMacSystemFont, Roboto, "Segoe UI", Helvetica, Arial, sans-serif;
+$headings-font-weight: 600;
+
+$btn-font-family: $headings-font-family;
+$btn-font-weight: 600;
+$btn-border-radius: 3px;
+$btn-border-radius-sm: 3px;
+$btn-border-radius-lg: 3px;
+$btn-padding-x: 16px;
+$btn-padding-x-lg: 28px;
+$btn-padding-x-sm: 12px;
+
+$input-border-radius: 3px;
+$input-border-radius-sm: 3px;
+$input-border-radius-lg: 3px;
+
+$form-text-font-weight: 300;
+
+$link-decoration: none;
+
+$breadcrumb-font-size: 14px;
+$breadcrumb-active-color: $primary;
+
+
+@import "../bootstrap-scss/bootstrap.scss";
+
+.custom-select {
+	-webkit-appearance: none;
+	-moz-appearance: none; 
+}
