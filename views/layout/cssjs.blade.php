@@ -5,7 +5,6 @@
 <link rel="stylesheet" href="/theme/css/hljs.css">
 
 {{-- external --}}
-{{-- <link rel="stylesheet" href="https://unpkg.com/css.gg/icons/all.css"> --}}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
 
 <style>
